@@ -1,5 +1,5 @@
 # Machine_Learning
-Simple project for Supervised &amp; Unsupervised ML &amp; also DL
+Simple project for Supervised &amp; Unsupervised ML &amp; also DL (Scikit Learn, Tensorflow, Keras)
 
 ALL OF THE PROJECT HAD BEEN DONE BY USING PYTHON
 
